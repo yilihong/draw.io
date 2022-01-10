@@ -1,6 +1,6 @@
-<mxfile modified="2021-10-06T20:39:52.534Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="r7Av2Saps3yAlFofKvgv" version="14.9.8" type="github">
+<mxfile modified="2022-01-10T22:31:03.138Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="XAPkVFx98D2BtuVAgSGm" version="16.2.4" type="github">
   <diagram id="2JyxNNU_SRswKXaLaBT6" name="Page-1">
-    <mxGraphModel dx="1543" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1637" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,13 +76,13 @@
         <mxCell id="5q_IAKNCsGFluqySmHJG-22" value="Holdout" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#FFFFFF;strokeColor=none;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="160" y="396" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5q_IAKNCsGFluqySmHJG-25" value="Control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#FFFFFF;strokeColor=none;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="239.5" y="418" width="50" height="20" as="geometry" />
+        <mxCell id="5q_IAKNCsGFluqySmHJG-25" value="Treatment 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#FFFFFF;strokeColor=none;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="230" y="418" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5q_IAKNCsGFluqySmHJG-26" value="Treatment 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#FFFFFF;strokeColor=none;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="5q_IAKNCsGFluqySmHJG-26" value="Treatment 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#FFFFFF;strokeColor=none;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="617" y="396" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5q_IAKNCsGFluqySmHJG-27" value="Treatment 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#FFFFFF;strokeColor=none;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="5q_IAKNCsGFluqySmHJG-27" value="Treatment 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillColor=#FFFFFF;strokeColor=none;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="548" y="418" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5q_IAKNCsGFluqySmHJG-28" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5q_IAKNCsGFluqySmHJG-12" target="5q_IAKNCsGFluqySmHJG-20" edge="1">
